@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <nav>
+        <h2>MENÜ</h2>
+        <ul>
+            <li><a href="https://www.midasbuy.com/midasbuy/tr/buy/pubgm">anasayfa</a></li>
+            <li><a href="https://www.google.com/search?q=PUBG+MOB%C4%B0LE+HAKKINDA+B%C4%B0LG%C4%B0LER&safe=active&sca_esv=1a616f78bf58706d&sxsrf=ADLYWIKbqiZKYwMJNXOCMl8hU4um-aAaZA%3A1728463776599&ei=oEMGZ9KaJNSLxc8P4cGc8Qs&ved=0ahUKEwjS6qSr9YCJAxXURfEDHeEgJ74Q4dUDCA8&uact=5&oq=PUBG+MOB%C4%B0L+HAKINDA+B%C4%B0LG%C4%B0LER&gs_lp=Egxnd3Mtd2l6LXNlcnAiHlBVQkcgTU9CxLBMIEhBS0lOREEgQsSwTEfEsExFUjIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYRzIEEAAYR0iFBlAAWABwAHgCkAEAmAEAoAEAqgEAuAEDyAEAmAIBoAIFmAMA4gMFEgExIECIBgGQBgiSBwExoAcA&sclient=gws-wiz-serp">hakkımda</a></li>
+            <li><a href="https://pubgmobile.helpshift.com/hc/en/3-pubg-mobile/contact-us/">iletişim</a></li>
+        </ul>
+    </nav>
+
+    <p>Web Sayfası İçeriği
+        <article>
+            <section>
+                Okuldan Haberler
+            </section>
+        </article>
+        <article>
+             <section>
+                Sağlık Haberleri
+             </section>
+
+        </article>
+
+        <figure>
+            <img src="/logo/logom.jpg.jfif"alt="logom"/>
+        <figcaption>
+              <a href="https://play.google.com/store/apps/details?id=com.tencent.ig&hl=tr">benim Logom</a>,daha fazla bilgi için
+        </figcaption>
+              </figure>
+
+
+                    <footer>
+                        <h3 id="yazar">HTML5 yazar : PUBG</h3>
+                    </footer>
+
+
+
+
+
+
+    </p>
+</body>
+</html>
