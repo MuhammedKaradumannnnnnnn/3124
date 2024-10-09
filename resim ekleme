@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+       
+   
+    <img src="/logo/logom.jpg.jfif"alt="logom" title="resim"/>
+    
+    <img   src="resimekleme.html" 
+        title="sorry"
+        srcset="/resimler/ogrenci-360.jpg 360w,
+                /resimler/ogrenci-720.jpg 720w,
+                /resimler/ogrenci-1440.jpg 1440w" 
+        sizes="(min-width:800px) 720px, 360px"/> 
+
+</body>
+</html>
